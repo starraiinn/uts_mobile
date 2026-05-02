@@ -101,6 +101,9 @@ Demo aplikasi dapat diakses melalui video berikut:
 👨‍💻 Author
 
 Nama: M. Belga Ghifari
+
 Kelas: TIF K 24 A
+
 NIM: 24552011078
+
 Mata Kuliah: Pemrograman Mobile 1
